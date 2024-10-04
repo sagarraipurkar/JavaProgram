@@ -1,6 +1,4 @@
-package dailyTask;
-
-import org.w3c.dom.ls.LSOutput;
+package dailyTask.oct03;
 
 public class task01 {
     public static void main(String[] args) {
